@@ -4,4 +4,4 @@ This project provides functions for selecting and training different machine lea
 Machine Learning Model Selection: Choose from multiple ML models to train on your dataset.
 Feature Importance Analysis: Identify the most relevant features contributing to model predictions.
 
-The datasets x, y were from the Obesity_prediction project
+You can check the Obesity_prediction project to see the preprocessing of the datasets x and y
